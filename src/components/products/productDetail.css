@@ -1,0 +1,19 @@
+.proDetail {
+    display: flex;
+    justify-content: space-around;
+}
+.proDetail-image{
+    width: 190px;
+}
+.proDetail-contain{
+    width: 65%;
+}
+.proDetail-Title{
+    font-size: 25px;
+}
+.proDetail-Price{
+    font-size: 21px;
+}
+.proDetail-Category{
+    font-size: 21px;
+}

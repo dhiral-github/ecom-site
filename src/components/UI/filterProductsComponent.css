@@ -1,0 +1,64 @@
+.filter-contain {
+  text-align: center;
+}
+
+.filter-body {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .3px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+.filter-priceRange {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter-price {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .3px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+.filter-clear {
+  color: #2874f0;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+  border: none;
+  background: white;
+}
+
+.price-range-input {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-category {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .3px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+.rating-filter {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .3px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+.rating-style {
+  font-size: 1rem;
+  margin-left: 3px;
+}

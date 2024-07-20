@@ -1,0 +1,42 @@
+  .wishList-contain {
+    display: flex;
+  }
+
+  .wishList-image {
+    width: 200px;
+  }
+
+  .wishList-detail {
+    width: 54%;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 20%)
+  }
+
+  .wishList-title {
+    font-size: 25px;
+  }
+
+  .wishList-price {
+    font-size: 21px;
+  }
+
+  .wishList-category {
+    font-size: 25px;
+  }
+
+  .wishList-remove {
+    text-decoration: none;
+    color: rgb(199 38 38);
+  }
+
+  .wish-list-container .cardImage {
+    padding: 0px;
+  }
+
+  .wish-flex {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  .wishListItem-empty {
+    margin-left: 50%;
+  }

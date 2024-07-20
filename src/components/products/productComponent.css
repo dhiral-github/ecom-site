@@ -1,0 +1,23 @@
+.filterHome {
+  flex: 0 0 280px;
+  flex-flow: row;
+  max-width: 280px;
+}
+
+.productHome {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardImage {
+  padding: 26px 49px 27px 66px;
+}
+
+.loading-product {
+  margin-left: 660px;
+}
+
+.modal-button {
+  height: 40px;
+  font-size: 16px;
+}
